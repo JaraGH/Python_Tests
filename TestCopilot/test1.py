@@ -6,3 +6,4 @@ cars = ["Ford", "Volvo", "BMW"]
 
 cities = ["London", "Paris", "Oslo", "Berlin", "New York", "Tokyo"]
    
+products = ["car", "bike", "plane", "train", "boat", "bus"]
