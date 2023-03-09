@@ -1,10 +1,8 @@
 
-# generate a random number between 1 and 10
+# generatea list of fruits
+lista=['apple','banana','cherry','orange','kiwi','melon','mango']
+#generate list o cars   
+cars = ["Ford", "Volvo", "BMW"]
 
-import random
-
-
-number = random.randint(1, 10)
-
-print(number)
-
+cities = ["London", "Paris", "Oslo", "Berlin", "New York", "Tokyo"]
+   
